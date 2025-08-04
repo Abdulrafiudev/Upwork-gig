@@ -5,8 +5,8 @@
       "dest": "/collections/best-sellers.html"
     },
     {
-      "src": "/collections/best-sellers/",
-      "dest": "/collections/best-sellers.html"
+      "src": "/collections/bundles/",
+      "dest": "/collections/bundles.html"
     }
   ]
 }
