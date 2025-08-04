@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/collections/best-sellers",
+      "dest": "/collections/best-sellers.html"
+    },
+    {
+      "src": "/collections/best-sellers/",
+      "dest": "/collections/best-sellers.html"
+    }
+  ]
+}
